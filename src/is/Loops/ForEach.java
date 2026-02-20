@@ -1,4 +1,4 @@
-package is.oops;
+package is.Loops;
 
 public class ForEach {
     public static void main(String[] args) {
